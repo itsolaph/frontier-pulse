@@ -42,6 +42,21 @@ Config lives in `config/` (`valuations.json` for last-round valuations with sour
 
 Caveat: small sample (weekly observations since the markets launched in Aug 2026) and Entropy's equity oracle is pinned to the public price only in regular hours, so treat hit rates as descriptive.
 
+## Credits
+
+| Source | Use | License / terms |
+|---|---|---|
+| [Chart.js](https://github.com/chartjs/Chart.js) 4.4.3 (jsDelivr CDN) | charts on the page | MIT |
+| [matplotlib](https://github.com/matplotlib/matplotlib) | share cards and OG image | matplotlib license (BSD-style) |
+| [Newsreader](https://fonts.google.com/specimen/Newsreader), [IBM Plex Mono](https://github.com/IBM/plex) via Google Fonts | type | SIL Open Font License 1.1 |
+| [Entropy](https://entropy.io) public market data and [docs](https://docs.entropy.io) | prices, funding, market list | Entropy's terms |
+| [Hyperliquid public API](https://api.hyperliquid.xyz) | reference prices | Hyperliquid's terms |
+| News reports linked in `config/valuations.json` | last-round valuations | each source is linked next to its number |
+
+## License
+
+MIT, see [LICENSE](LICENSE). Data stays with its sources above.
+
 ## Disclaimers
 
 Unofficial community dashboard, not affiliated with Entropy. Not financial advice. Data may be delayed or wrong; check the primary sources.
