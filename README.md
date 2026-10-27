@@ -6,6 +6,8 @@ Free, public analytics site and X-post generator for [Entropy](https://entropy.i
 
 Unofficial community project, not affiliated with Entropy. Not financial advice.
 
+<img src="docs/screenshot.png" alt="Frontier Pulse site: live implied valuations of Anthropic and OpenAI from Entropy perps, plus headlines" width="100%">
+
 ## How it works
 
 ```
